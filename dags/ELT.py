@@ -71,7 +71,7 @@ def load_multiple_tables_to_snowflake(**kwargs):
 with DAG(
     dag_id='ELT_Ecommerce',
     default_args=default_args,
-    description='End to end e-commerce data pipeline using Apache Airflow, dbt, Snowflake, and Docker',
+    description='End to end e-commerce data pipeline using Apache Airflow, dbt, Snowflake, Python, and Docker',
     schedule=None,
     start_date=datetime(2014,1,1),
     catchup=False

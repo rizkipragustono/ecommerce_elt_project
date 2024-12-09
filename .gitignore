@@ -10,3 +10,7 @@ logs/
 
 # dbt
 .dbt/
+
+# Legacy files
+core/
+mart/

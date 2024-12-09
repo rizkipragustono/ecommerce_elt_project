@@ -34,7 +34,5 @@ models:
     #   +materialized: view
     staging:
       +materialized: incremental
-    core:
-      +materialized: incremental
     marts:
       +materialized: incremental
