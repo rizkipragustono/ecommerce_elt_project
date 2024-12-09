@@ -1,0 +1,12 @@
+# Sensitive files
+.env
+kaggle.json
+
+# Python
+dags/__pycache__/
+
+# Airflow
+logs/
+
+# dbt
+.dbt/
