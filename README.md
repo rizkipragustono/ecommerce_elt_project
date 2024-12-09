@@ -12,7 +12,7 @@ This project demonstrates a complete **ELT pipeline** for an **e-commerce datase
 ## Tools and Technologies
 - **Python**: Core programming language for the project.
 - **Apache Airflow**: Orchestrates the ELT pipeline.
-- **dbt (Data Build Tool)**: Handles SQL-based transformations and documentation.
+- **dbt (Data Build Tool)**: Handles SQL-based transformations.
 - **Snowflake**: Cloud-based data warehouse for data storage and analytics.
 - **Docker**: Containerizes the environment for consistent development and deployment
 ## Star Schema Design
