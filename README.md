@@ -1,4 +1,4 @@
-# Ecommerce ELT Data Pipeline
+# E-commerce ELT Data Pipeline
 ## Overview
 This project demonstrates a complete **ELT pipeline** for an **e-commerce dataset** sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv). The pipeline showcases **data engineering capabilities**, including raw data extraction, transformation into a **star schema** data warehouse model, and loading for analytical purposes. It uses modern data engineering tools and practices to deliver a robust, scalable, and maintainable solution.
 ## Key Features
